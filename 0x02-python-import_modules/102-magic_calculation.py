@@ -2,6 +2,7 @@
 
 
 def magic_calculation(a, b):
+    """Match ALX bytecode."""
     from magic_calculation_102 import add, sub
 
     if a < b:
